@@ -1,0 +1,16 @@
+*.aps
+*.exe
+*.ncb
+*.obj
+*.pdb
+*.pyc
+*.suo
+*.swp
+*.user
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Ll]ib/boost
+[Ll]ib/test-cpp
+[Ll]ib/datamapper-cpp
